@@ -1,0 +1,23 @@
+.App {
+  height: 100%;
+  height: auto;
+  width: 100%;
+  /* background-color: lightgrey; */
+  display: flex;
+  flex-direction: column;
+  /* margin: 15px; */
+  /* justify-content: space-between; */
+}
+
+.App .header {
+  display: flex;
+  justify-content: space-between;
+  margin: 15px;
+}
+
+.App .signup-form-container {
+  margin: 15px;
+}
+.App .user-dashboard {
+  margin: 15px;
+}
